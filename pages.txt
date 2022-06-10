@@ -1,1 +1,5 @@
 https://www.earthdatascience.org/courses/scientists-guide-to-plotting-data-in-python/plot-spatial-data/customize-raster-plots/interactive-maps/
+
+
+# Average-latitude-longitude-countries.csv
+https://github.com/albertyw/avenews/blob/master/old/data/average-latitude-longitude-countries.csv
